@@ -16,3 +16,8 @@ Started exploring the idea of einky today. I’ve been researching how e-paper d
 Spent the day diving into datasheets and setup guides for e-paper displays. I compared refresh rates, resolutions, and power usage. The tech behind these displays is actually more complex than I expected — the partial refresh thing is wild. I’m also mapping how the code interacts with GPIO pins so I’m ready when I get the parts. Slowly![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NywicHVyIjoiYmxvYl9pZCJ9fQ==--b2980a216829d14f6f9c7884441a256755d2b621/image.png)
  turning theory into a plan.  
 
+## 11/3/2025 11:23 AM - Coding & Simulation  
+
+Worked on the backend part today. Set up a simple local script to simulate what the e-paper output might look like. Tweaked fonts, spacing, and time formatting. Still no physical setup, but the logic side is shaping up nicely. Once the hardware arrives, I’ll just have to plug it in and test. For now, it feels good seeing the idea take form on screen.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--2ee13d10c4bb77290db12f74bd8a7c2d23137136/image.png)
+  
+
