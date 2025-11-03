@@ -6,8 +6,13 @@
   ==================================================================
 -->
 
-## 11/3/2025 - Getting Started  
+## 11/3/2025 11:22 AM - Getting Started  
 
 Started exploring the idea of einky today. I’ve been researching how e-paper displays work and what models are compatible with the Raspberry Pi. It’s crazy how low-power and crisp they look. I don’t have the hardware yet, but I’m setting up the codebase and understanding the libraries I’ll need once I do. Feels good to finally begin something that blends design and tech.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--883678fba3b4212515ede96ff5f5bb0a0445f8b4/image.png)
   
+
+## 11/3/2025 11:23 AM - Hardware Research  
+
+Spent the day diving into datasheets and setup guides for e-paper displays. I compared refresh rates, resolutions, and power usage. The tech behind these displays is actually more complex than I expected — the partial refresh thing is wild. I’m also mapping how the code interacts with GPIO pins so I’m ready when I get the parts. Slowly![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NywicHVyIjoiYmxvYl9pZCJ9fQ==--b2980a216829d14f6f9c7884441a256755d2b621/image.png)
+ turning theory into a plan.  
 
