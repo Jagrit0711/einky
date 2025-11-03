@@ -1,11 +1,4 @@
 Component,Description,Estimated Cost (INR)
 Raspberry Pi 4 Model B (2GB or 4GB),Main controller board for running Python code and handling display updates.,4000
-Micro SD Card (16GB or higher),Used to install OS and store project files.,300
 Waveshare 7.5-inch e-Paper Display (or compatible),Primary e-ink display for showing the calendar and data.,5500
 e-Paper HAT (for Raspberry Pi GPIO connection),Interface board that connects e-paper to Pi GPIO pins.,1000
-Micro HDMI Cable,For connecting Pi to an external monitor during setup.,250
-5V 3A USB-C Power Adapter,Provides stable power supply for the Raspberry Pi.,600
-Jumper Wires (Male to Female),Used for connecting HAT or sensors to the Pi.,150
-Breadboard (optional for prototyping),Optional board for testing connections safely.,150
-Raspberry Pi Case (optional),Protective casing for the Raspberry Pi board.,300
-Heat Sinks / Cooling Fan (optional),Keeps the board cool during long runtimes.,200
