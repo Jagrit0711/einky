@@ -21,3 +21,8 @@ Spent the day diving into datasheets and setup guides for e-paper displays. I co
 Worked on the backend part today. Set up a simple local script to simulate what the e-paper output might look like. Tweaked fonts, spacing, and time formatting. Still no physical setup, but the logic side is shaping up nicely. Once the hardware arrives, I’ll just have to plug it in and test. For now, it feels good seeing the idea take form on screen.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--2ee13d10c4bb77290db12f74bd8a7c2d23137136/image.png)
   
 
+## 11/3/2025 10 PM - Cleanup & 3D Frame  
+
+Spent the day fixing up the project after realizing it needed a serious cleanup. I went through the README and removed every bit of AI like text now it actually sounds like me, not a robot. Also started working on a custom 3D frame for the setup instead of a PCB. The idea is to give einky a proper structure that looks neat and fits the components perfectly. ![Screenshot 2025-11-01 102011](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--1534249597ed918cba612f3424c407034d640355/Screenshot%202025-11-01%20102011.png)
+  
+
