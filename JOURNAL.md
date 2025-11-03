@@ -26,3 +26,8 @@ Worked on the backend part today. Set up a simple local script to simulate what 
 Spent the day fixing up the project after realizing it needed a serious cleanup. I went through the README and removed every bit of AI like text now it actually sounds like me, not a robot. Also started working on a custom 3D frame for the setup instead of a PCB. The idea is to give einky a proper structure that looks neat and fits the components perfectly. ![Screenshot 2025-11-01 102011](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--1534249597ed918cba612f3424c407034d640355/Screenshot%202025-11-01%20102011.png)
   
 
+## 11/3/2025 11 PM - Fixing the BOM & Switching to Pi 3  
+
+Got feedback about using a Raspberry Pi Zero W to cut costs, but after testing and thinking it through, I decided to switch to a Raspberry Pi 3 instead. The Zero would make the experience super laggy and limit what I can add later. Since I plan to bring in more hardware-based features soon, sticking with a more modular setup makes way more sense. I updated the BOM accordingly and sent new cart screenshots to keep everything consistent. The Pi 3 feels like the right balance between performance and flexibilityit’ll keep the project smooth and ready for future upgrades ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--11a4c8f2f6340e7e139012c3bb5d3d4ecd40a733/image.png)
+  
+
