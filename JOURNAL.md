@@ -31,3 +31,9 @@ Spent the day fixing up the project after realizing it needed a serious cleanup.
 Got feedback about using a Raspberry Pi Zero W to cut costs, but after testing and thinking it through, I decided to switch to a Raspberry Pi 3 instead. The Zero would make the experience super laggy and limit what I can add later. Since I plan to bring in more hardware-based features soon, sticking with a more modular setup makes way more sense. I updated the BOM accordingly and sent new cart screenshots to keep everything consistent. The Pi 3 feels like the right balance between performance and flexibilityit’ll keep the project smooth and ready for future upgrades ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--11a4c8f2f6340e7e139012c3bb5d3d4ecd40a733/image.png)
   
 
+## 11/4/2025 - here are sketches   
+
+Hey! Here are the sketches of my CAD model as requested. I’m not adding the 3D models of the electronic components since the case was originally made for a school project, and the physical one was taken back as it belonged to the school. I actually designed it last week, so it still comes under the project’s start date. The frame was made for a Raspberry Pi 4, so it might look slightly off, but I’ve already left a bigger cutout for the I/O ports, so even a full-sized HDMI fits perfectly instead of a micro one.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--655034541301118247fb61bd99c9e5dc00032946/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE0MywicHVyIjoiYmxvYl9pZCJ9fQ==--19e2db73de8cc18fce82cae8171aceb4afe5527a/image.png)
+  
+
