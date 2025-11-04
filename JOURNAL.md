@@ -47,3 +47,9 @@ We’ve already developed the software to integrate the new sensors, and the cas
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--34195349510c749fc1165ea729c6ac8143f51855/image.png)
   
 
+## 11/4/2025 10 AM - sketches!  
+
+Hey! As requested, here are the sketches of my CAD design, and I’ve also updated them on GitHub. These were made inside FreeCAD using 2D projections of my 3D case model. Please review and let me know if there’s anything else you’d like me to add or modify. Thanks!
+![Screenshot 2025-11-04 104155](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--308e8dabd63d795dbb78aa7de49994d37a7e7773/Screenshot%202025-11-04%20104155.png)![Screenshot 2025-11-04 104110](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI3MywicHVyIjoiYmxvYl9pZCJ9fQ==--7e479b568f075a6032827a5083cd746da6851e79/Screenshot%202025-11-04%20104110.png)![Screenshot 2025-11-04 104124](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--a0b7fe8b5186fa3827e9165edaaba7850aea9df7/Screenshot%202025-11-04%20104124.png)
+  
+
