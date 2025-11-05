@@ -4,3 +4,4 @@ Waveshare 7.5-inch e-Paper Display (or compatible),Primary e-ink display for sho
 e-Paper HAT (for Raspberry Pi GPIO connection),Interface board that connects e-paper to Pi GPIO pins.,1000
 DHT22 Temperature Sensor,Measures room temperature and humidity,150
 PIR Motion Sensor (HC-SR501),Detects motion in front of the device,100
+Usb Mic module, adding ai based assitant control to project,800
