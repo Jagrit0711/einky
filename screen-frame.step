@@ -15,12 +15,12 @@ cturing Information (PMI)---4.0---2014-10-13',
 
 FILE_NAME(
 /* name */ 'Part Studio 1 - Screen Frame',
-/* time_stamp */ '2025-01-28T18:41:10Z',
-/* author */ (''),
-/* organization */ (''),
+/* time_stamp */ '2025-11-06T14:30:00Z',
+/* author */ ('Jagrit Sachdev'),
+/* organization */ ('Zylon Labs'),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
 /* originating_system */ 'ONSHAPE BY PTC INC, 1.192',
-/* authorisation */ '  ');
+/* authorisation */ 'Approved');
 
 FILE_SCHEMA (('AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF { 1 0 10303 442 1 1 4 }'));
 ENDSEC;
