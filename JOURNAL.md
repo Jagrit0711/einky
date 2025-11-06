@@ -67,3 +67,13 @@ attaching some mockups genrated from gemini so that it looks good
 ![unnamed](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--5adc27a2802813e202d3c4149f9b6bb74207c5bb/unnamed.jpg)
   
 
+## 11/6/2025 - Full Case Redesign & Proof of Originality  
+
+After getting the feedback from Kai, I spent the entire night redesigning the case from scratch to ensure it’s fully original. I’ve uploaded the final **.STEP file** to GitHub as proof that the 3D model was authored by me, and not downloaded from anywhere else.
+
+[Front screen side](https://github.com/Jagrit0711/einky/blob/main/screen-frame.step)
+[Back clover](https://github.com/Jagrit0711/einky/blob/main/back-cover.step)
+
+![Screenshot 2025-11-06 090534](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--732b4ca40ce159e8bf18fc0263d7e9d6373e09ce/Screenshot%202025-11-06%20090534.png)![Screenshot 2025-11-06 090429](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc5NywicHVyIjoiYmxvYl9pZCJ9fQ==--e85c702fd05e3476685421a60482e21938064a66/Screenshot%202025-11-06%20090429.png)![Screenshot 2025-11-06 090402](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--6ae21957d4fce08b35001d2700a295d72dde4ba4/Screenshot%202025-11-06%20090402.png)![Screenshot 2025-11-06 090255](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6df2456ee48786e36983fef9ad80cbd3f46f3c5b/Screenshot%202025-11-06%20090255.png)![Screenshot 2025-11-06 090459](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--2902a73f8f0210ecd07f5005abac54a071fdcaea/Screenshot%202025-11-06%20090459.png)
+  
+
